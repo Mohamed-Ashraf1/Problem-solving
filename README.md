@@ -65,4 +65,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
