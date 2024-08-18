@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0011-container-with-most-water) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -69,4 +70,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0328-odd-even-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
