@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0890-lemonade-change) |
 | [2636-maximum-subsequence-score](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2636-maximum-subsequence-score) |
 ## String
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0013-roman-to-integer) |
+| [0649-dota2-senate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0649-dota2-senate) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,4 +73,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
