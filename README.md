@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0217-contains-duplicate) |
 | [0890-lemonade-change](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0890-lemonade-change) |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0242-valid-anagram) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2413-smallest-number-in-infinite-set) |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0242-valid-anagram) |
 | [0649-dota2-senate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0649-dota2-senate) |
 ## Sliding Window
@@ -52,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0242-valid-anagram) |
