@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0011-container-with-most-water) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0217-contains-duplicate) |
 | [0890-lemonade-change](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0890-lemonade-change) |
 | [2636-maximum-subsequence-score](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2636-maximum-subsequence-score) |
 ## Hash Table
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0217-contains-duplicate) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2413-smallest-number-in-infinite-set) |
 ## Math
 |  |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0217-contains-duplicate) |
 | [2636-maximum-subsequence-score](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2636-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
