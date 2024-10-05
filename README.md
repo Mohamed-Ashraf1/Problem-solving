@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0890-lemonade-change](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0890-lemonade-change) |
 | [2636-maximum-subsequence-score](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2636-maximum-subsequence-score) |
 ## Hash Table
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2413-smallest-number-in-infinite-set) |
 ## Math
 |  |
@@ -59,11 +61,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [2636-maximum-subsequence-score](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2636-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2413-smallest-number-in-infinite-set) |
 | [2636-maximum-subsequence-score](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2636-maximum-subsequence-score) |
 ## Design
@@ -74,10 +78,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -87,4 +93,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0649-dota2-senate) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
