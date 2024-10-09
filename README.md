@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0242-valid-anagram) |
 | [0649-dota2-senate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0649-dota2-senate) |
 ## Sliding Window
