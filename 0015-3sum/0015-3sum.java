@@ -15,10 +15,8 @@ class Solution {
                     end--;
                 }else{
                     start++;
-                }
-                
+                }   
             }
-
         }
         return result.stream().collect(Collectors.toList());
     }
