@@ -112,4 +112,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
