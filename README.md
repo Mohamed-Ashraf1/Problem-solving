@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0383-ransom-note) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2413-smallest-number-in-infinite-set) |
 ## Math
 |  |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0383-ransom-note) |
 | [0649-dota2-senate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0649-dota2-senate) |
 ## Sliding Window
 |  |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0383-ransom-note) |
 ## Binary Search
 |  |
 | ------- |
