@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0890-lemonade-change](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0948-sort-an-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2413-smallest-number-in-infinite-set) |
 ## Math
 |  |
