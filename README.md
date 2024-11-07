@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0392-is-subsequence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0392-is-subsequence) |
 | [0649-dota2-senate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0649-dota2-senate) |
 ## Sliding Window
 |  |
@@ -198,4 +200,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
