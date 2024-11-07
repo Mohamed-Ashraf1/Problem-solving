@@ -81,12 +81,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0392-is-subsequence) |
 | [0649-dota2-senate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0649-dota2-senate) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
 |  |
 | ------- |
