@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0948-sort-an-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2636-maximum-subsequence-score](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2636-maximum-subsequence-score) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0441-arranging-coins) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,4 +207,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0392-is-subsequence) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
