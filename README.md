@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0948-sort-an-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2636-maximum-subsequence-score](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2636-maximum-subsequence-score) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0011-container-with-most-water) |
 | [0649-dota2-senate](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0890-lemonade-change) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2636-maximum-subsequence-score](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2636-maximum-subsequence-score) |
 ## String
 |  |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0948-sort-an-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2636-maximum-subsequence-score](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2636-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
@@ -156,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/0441-arranging-coins) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Database
 |  |
 | ------- |
@@ -211,4 +215,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/2538-minimum-cost-to-make-array-equal) |
 <!---LeetCode Topics End-->
