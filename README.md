@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/1827-invalid-tweets) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Mohamed-Ashraf1/Problem-solving/tree/master/1908-recyclable-and-low-fat-products) |
 ## Merge Sort
 |  |
